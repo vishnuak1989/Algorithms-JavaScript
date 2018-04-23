@@ -1,7 +1,7 @@
 //Fibonnaci Series of n length
-
-const fibonacci=(n)=> {
   let fibSeries=[0 , 1]
+const fibonacci=(n)=> {
+
   for(i = 2; i<n; i++)
     {
       let num = fibSeries[i-1]+ fibSeries[i-2]
