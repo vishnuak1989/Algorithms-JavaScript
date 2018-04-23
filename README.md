@@ -1,4 +1,4 @@
-# easyES6
+# ES6 Challenges
 Some functions and Algorithms written using ES6 
 
 | File Name           | Details                                                    |
