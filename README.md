@@ -1,5 +1,5 @@
-# ES6 Challenges
-Some functions and Algorithms written using ES6 
+# JavaScript-ES6-Challenges
+Some functions and Algorithms written using JavaScript
 
 | File Name           | Details                                                    |
 | :-------------:     |:----------------------------------------------------------:| 
