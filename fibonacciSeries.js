@@ -1,7 +1,7 @@
 //Fibonnaci Series of n length
-  let fibSeries=[0 , 1]
+  
 const fibonacci=(n)=> {
-
+  let fibSeries=[0 , 1]
   for(i = 2; i<n; i++)
     {
       let num = fibSeries[i-1]+ fibSeries[i-2]
@@ -10,5 +10,5 @@ const fibonacci=(n)=> {
 }
 
 //Test Case
-fibonacci(10)
-console.log(fibSeries)
+// fibonacci(10)
+// console.log(fibSeries)
