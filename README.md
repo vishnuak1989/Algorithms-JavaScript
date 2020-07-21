@@ -1,4 +1,4 @@
-# JavaScript-Algorithms
+# JavaScript-Examples
 ## Some functions and Algorithms written using JavaScript <br />
 ### These are some common white board interview questions
 Clone/Download this repository, add your input to the files and use node <filename.js> in command line to execute. <br/>
